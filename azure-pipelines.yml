@@ -1,9 +1,6 @@
 trigger:
 - '*'
 
-trigger:
-- '*'
-
 variables:
   buildConfiguration: 'Release'
   webRepository: 'web'
