@@ -5,7 +5,7 @@ variables:
   buildConfiguration: 'Release'
   webRepository: 'web'
   tag: '$(Build.BuildId)'
-
+#Commit message 123
 stages:
 - stage: 'Build'
   displayName: 'Build and push'
